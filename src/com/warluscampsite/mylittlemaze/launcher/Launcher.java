@@ -10,8 +10,6 @@ import com.warluscampsite.mylittlemaze.data.Data;
 public class Launcher {
 
 	public static void main(String[] args) {
-		/*Ubuntu here*/
-		/*Laptop here*/
 		UIManager.getDefaults().put("TabbedPane.contentBorderInsets", new Insets(0, 0, 0, 0));
 		UIManager.put("TabbedPane.contentOpaque", false);
 
